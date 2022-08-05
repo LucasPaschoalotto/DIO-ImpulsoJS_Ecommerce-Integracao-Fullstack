@@ -5,5 +5,5 @@ Seção referente ao Frontend da aplicação.
 - Seção de contato em "/contato"
 
 ## Conteúdo:
-- Node.js
-- Express
+- React
+- Bootstrap
