@@ -5,3 +5,4 @@ Seção referente ao Backend da aplicação
 ## Conteúdo:
 - Node.js
 - Express
+- SQLite

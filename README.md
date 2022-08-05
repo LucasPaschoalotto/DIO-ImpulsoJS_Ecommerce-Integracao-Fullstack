@@ -7,3 +7,4 @@ Projeto realizado durante o Bootcamp DIO: Impulso Javascript Evolution para inte
 - Bootstrap
 - Node.js
 - Express
+- SQLite
